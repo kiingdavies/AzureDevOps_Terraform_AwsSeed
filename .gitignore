@@ -6,6 +6,8 @@
 # Local .terraform directories
 **/.terraform/*
 
+gistfile1.txt
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
